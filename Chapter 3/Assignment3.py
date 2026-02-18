@@ -1,0 +1,5 @@
+sentence =input( "Enter a sentence:")
+length = len(sentence)
+print(length)
+print(sentence.lower())
+print(sentence.upper())

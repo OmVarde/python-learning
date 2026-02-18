@@ -1,0 +1,5 @@
+sentence =input( "Enter a sentence:")
+print (sentence[0])
+print (sentence[-1])
+length = len(sentence)
+print(length)

@@ -1,0 +1,1 @@
+print(("Om Varde" + "\n")*10)
